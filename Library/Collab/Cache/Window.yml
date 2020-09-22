@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Materials.meta
+    - Assets/Materials/MoonVideoMaterial.mat
+    - Assets/Materials/MoonVideoMaterial.mat.meta
+    - Assets/Musics.meta
+    - Assets/Musics/Deathwave.mp3
+    - Assets/Musics/Deathwave.mp3.meta
+    - Assets/Musics/Nox Arcana - Music Box.mp3
+    - Assets/Musics/Nox Arcana - Music Box.mp3.meta
+    - Assets/Prefabs.meta
+    - Assets/Prefabs/Box.prefab
+    - Assets/Prefabs/Box.prefab.meta
+    - Assets/Prefabs/ObjectsManager.prefab
+    - Assets/Prefabs/ObjectsManager.prefab.meta
+    - Assets/Prefabs/SceneManager.prefab
+    - Assets/Prefabs/SceneManager.prefab.meta
+    - Assets/Prefabs/UI.prefab
+    - Assets/Prefabs/UI.prefab.meta
+    - Assets/Prefabs/slot.prefab
+    - Assets/Prefabs/slot.prefab.meta
+    - Assets/Resources.meta
+    - Assets/Resources/Sprites.meta
+    - Assets/Resources/Sprites/Inventory_backGround.png
+    - Assets/Resources/Sprites/Inventory_backGround.png.meta
+    - Assets/Resources/Sprites/Objects.meta
+    - Assets/Resources/Sprites/Objects/book.png
+    - Assets/Resources/Sprites/Objects/book.png.meta
+    - Assets/Resources/Sprites/Objects/cup.png
+    - Assets/Resources/Sprites/Objects/cup.png.meta
+    - Assets/Resources/Sprites/Objects/cup_app.png
+    - Assets/Resources/Sprites/Objects/cup_app.png.meta
+    - Assets/Resources/Sprites/Objects/cup_lemon.png
+    - Assets/Resources/Sprites/Objects/cup_lemon.png.meta
+    - Assets/Resources/Sprites/Objects/cup_peach.png
+    - Assets/Resources/Sprites/Objects/cup_peach.png.meta
+    - Assets/Resources/Sprites/Objects/empty_item.png
+    - Assets/Resources/Sprites/Objects/empty_item.png.meta
+    - Assets/Resources/Sprites/Objects/hat.png
+    - Assets/Resources/Sprites/Objects/hat.png.meta
+    - Assets/Resources/Sprites/Objects/knife.png
+    - Assets/Resources/Sprites/Objects/knife.png.meta
+    - Assets/Resources/Sprites/Objects/plate.png
+    - Assets/Resources/Sprites/Objects/plate.png.meta
+    - Assets/Resources/Sprites/Wall.meta
+    - Assets/Resources/Sprites/Wall/meeting.png
+    - Assets/Resources/Sprites/Wall/meeting.png.meta
+    - Assets/Resources/Sprites/Wall/office.png
+    - Assets/Resources/Sprites/Wall/office.png.meta
+    - Assets/Resources/Sprites/Wall/plaza.png
+    - Assets/Resources/Sprites/Wall/plaza.png.meta
+    - Assets/Resources/Sprites/arrow.png
+    - Assets/Resources/Sprites/arrow.png.meta
+    - Assets/Resources/Sprites/button_cover.png
+    - Assets/Resources/Sprites/button_cover.png.meta
+    - Assets/Resources/Sprites/closeButton.png
+    - Assets/Resources/Sprites/closeButton.png.meta
+    - Assets/Resources/Sprites/cursor.png
+    - Assets/Resources/Sprites/cursor.png.meta
+    - Assets/Resources/Sprites/help_slot.png
+    - Assets/Resources/Sprites/help_slot.png.meta
+    - Assets/Resources/Sprites/meeting.meta
+    - Assets/Resources/Sprites/meeting/box1.png
+    - Assets/Resources/Sprites/meeting/box1.png.meta
+    - Assets/Resources/Sprites/meeting/box2.png
+    - Assets/Resources/Sprites/meeting/box2.png.meta
+    - Assets/Resources/Sprites/meeting/box3.png
+    - Assets/Resources/Sprites/meeting/box3.png.meta
+    - Assets/Resources/Sprites/meeting/project1.png
+    - Assets/Resources/Sprites/meeting/project1.png.meta
+    - Assets/Resources/Sprites/meeting/project2.png
+    - Assets/Resources/Sprites/meeting/project2.png.meta
+    - Assets/Resources/Sprites/meeting/project3.png
+    - Assets/Resources/Sprites/meeting/project3.png.meta
+    - Assets/Resources/Sprites/meeting/project4.png
+    - Assets/Resources/Sprites/meeting/project4.png.meta
+    - Assets/Resources/Sprites/meeting/project5.png
+    - Assets/Resources/Sprites/meeting/project5.png.meta
+    - Assets/Resources/Sprites/meeting/project6.png
+    - Assets/Resources/Sprites/meeting/project6.png.meta
+    - Assets/Resources/Sprites/meeting/projectInitial.png
+    - Assets/Resources/Sprites/meeting/projectInitial.png.meta
+    - Assets/Resources/Sprites/meeting/project_playerclose.png
+    - Assets/Resources/Sprites/meeting/project_playerclose.png.meta
+    - Assets/Resources/Sprites/menu_title.png
+    - Assets/Resources/Sprites/menu_title.png.meta
+    - Assets/Resources/Sprites/office.meta
+    - Assets/Resources/Sprites/office/piece_back.png
+    - Assets/Resources/Sprites/office/piece_back.png.meta
+    - Assets/Resources/Sprites/office/piece_open_knife.png
+    - Assets/Resources/Sprites/office/piece_open_knife.png.meta
+    - Assets/Resources/Sprites/office/piece_open_pickAfter.png
+    - Assets/Resources/Sprites/office/piece_open_pickAfter.png.meta
+    - Assets/Resources/Sprites/office/robot_close.png
+    - Assets/Resources/Sprites/office/robot_close.png.meta
+    - Assets/Resources/Sprites/plaza.meta
+    - Assets/Resources/Sprites/plaza/fridge.png
+    - Assets/Resources/Sprites/plaza/fridge.png.meta
+    - Assets/Resources/Sprites/plaza/fridge_open.png
+    - Assets/Resources/Sprites/plaza/fridge_open.png.meta
+    - Assets/Resources/Texture2D.meta
+    - Assets/Resources/Texture2D/cursor.png
+    - Assets/Resources/Texture2D/cursor.png.meta
+    - Assets/Resources/japanese pro.png
+    - Assets/Resources/japanese pro.png.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/Initial.unity
+    - Assets/Scenes/Initial.unity.meta
+    - Assets/Scenes/end.unity
+    - Assets/Scenes/end.unity.meta
+    - Assets/Scenes/meeting.unity
+    - Assets/Scenes/meeting.unity.meta
+    - Assets/Scenes/menu.unity
+    - Assets/Scenes/menu.unity.meta
+    - Assets/Scenes/office.unity
+    - Assets/Scenes/office.unity.meta
+    - Assets/Scenes/plaza.unity
+    - Assets/Scenes/plaza.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/ButtonHandler.cs
+    - Assets/Scripts/ButtonHandler.cs.meta
+    - Assets/Scripts/ChangeCursor.cs
+    - Assets/Scripts/ChangeCursor.cs.meta
+    - Assets/Scripts/ChangeView.cs
+    - Assets/Scripts/ChangeView.cs.meta
+    - Assets/Scripts/DisplayImage.cs
+    - Assets/Scripts/DisplayImage.cs.meta
+    - Assets/Scripts/EndScene.cs
+    - Assets/Scripts/EndScene.cs.meta
+    - Assets/Scripts/FillCup.cs
+    - Assets/Scripts/FillCup.cs.meta
+    - Assets/Scripts/InitialScene.cs
+    - Assets/Scripts/InitialScene.cs.meta
+    - Assets/Scripts/Interact.cs
+    - Assets/Scripts/Interact.cs.meta
+    - Assets/Scripts/Inventory.cs
+    - Assets/Scripts/Inventory.cs.meta
+    - Assets/Scripts/Locker.cs
+    - Assets/Scripts/Locker.cs.meta
+    - Assets/Scripts/MatchBox.cs
+    - Assets/Scripts/MatchBox.cs.meta
+    - Assets/Scripts/MatchPuzzle.cs
+    - Assets/Scripts/MatchPuzzle.cs.meta
+    - Assets/Scripts/MenuScene.cs
+    - Assets/Scripts/MenuScene.cs.meta
+    - Assets/Scripts/ObjectsManager.cs
+    - Assets/Scripts/ObjectsManager.cs.meta
+    - Assets/Scripts/PickUpItem.cs
+    - Assets/Scripts/PickUpItem.cs.meta
+    - Assets/Scripts/ProjectPuzzle.cs
+    - Assets/Scripts/ProjectPuzzle.cs.meta
+    - Assets/Scripts/Slot.cs
+    - Assets/Scripts/Slot.cs.meta
+    - Assets/Scripts/ZoomIn.cs
+    - Assets/Scripts/ZoomIn.cs.meta
+    - Assets/Scripts/ZoomInScene.cs
+    - Assets/Scripts/ZoomInScene.cs.meta
+    - Assets/Textures.meta
+    - Assets/Textures/moonTexture.renderTexture
+    - Assets/Textures/moonTexture.renderTexture.meta
+    - Assets/Videos.meta
+    - Assets/Videos/moon.mp4
+    - Assets/Videos/moon.mp4.meta
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - 
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
